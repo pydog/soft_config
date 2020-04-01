@@ -1,0 +1,10 @@
+[submodule "tiny_vim"]
+	path = tiny_vim
+	url = git@github.com:pydog/tiny_vim_config.git
+
+[submodule "tmux_conf"]
+	path = tmux_conf
+	url = git@github.com:pydog/tmux_conf.git
+[submodule "gitconfig"]
+	path = gitconfig
+	url = git@github.com:pydog/gitconfig.git
