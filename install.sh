@@ -49,4 +49,5 @@ if [ -d $HOME/.vim/bundle/vundle ];then
 echo "vundle had cloned before, pass"
 else
 git clone https://github.com/gmarik/vundle.git $HOME/.vim/bundle/vundle
+echo "vundle clone done, remember to run BundleInstall vim cmd to install the vim plugin"
 fi
